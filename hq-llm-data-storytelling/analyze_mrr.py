@@ -44,4 +44,5 @@ plt.tight_layout()
 plt.savefig('mrr_growth_analysis.png', dpi=300)
 
 print(f"Analysis complete. Average MRR Growth: {average_growth:.2f}")
+
 print("Visualization saved as 'mrr_growth_analysis.png'")
